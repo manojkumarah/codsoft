@@ -24,6 +24,23 @@ Each project demonstrates essential Python programming concepts such as logic bu
    - User-friendly text interface
    file: task1_to-do_list.py
 
+4.  Rock-Paper-Scissors Application
+    A fun Python game where the user plays against the computer by choosing rock, paper, or scissors.
+    -User and computer make their choices
+    -Determines the winner based on game rules
+    -Optional score tracking for multiple rounds
+    -User-friendly interface with play-again option
+     file: task4_rock_paper_cissors.py
+
+5.  Contact_Book Application
+    A Python program to store and manage contact details such as name, phone number, email, and address.
+    -Add, view, search, update, and delete contacts
+    -Displays contact list with names and phone numbers
+    -Search contacts by name or phone number
+    -User-friendly text-based interface for easy use
+    file: task5_contact_management.py    
+   
+
 # Technologies Used
 Python 3.x
 Random and String modules
@@ -40,3 +57,7 @@ python calculator.py
 python password_generator.py
 
 python task1_to-do_list.py
+
+python task4_rock_paper_cissors.py
+
+python task5_contact_management.py 
